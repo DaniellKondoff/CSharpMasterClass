@@ -1,0 +1,11 @@
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\netcoreapp3.0\ActionAndFuncDelegates.exe
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\netcoreapp3.0\ActionAndFuncDelegates.deps.json
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\netcoreapp3.0\ActionAndFuncDelegates.runtimeconfig.json
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\netcoreapp3.0\ActionAndFuncDelegates.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\netcoreapp3.0\ActionAndFuncDelegates.dll
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\netcoreapp3.0\ActionAndFuncDelegates.pdb
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\netcoreapp3.0\ActionAndFuncDelegates.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\netcoreapp3.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\netcoreapp3.0\ActionAndFuncDelegates.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\netcoreapp3.0\ActionAndFuncDelegates.dll
+C:\MyCode\C#MasterClass\Delegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\netcoreapp3.0\ActionAndFuncDelegates.pdb

@@ -1,0 +1,11 @@
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\obj\Debug\netcoreapp3.0\BasicDelegates.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\obj\Debug\netcoreapp3.0\BasicDelegates.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\obj\Debug\netcoreapp3.0\BasicDelegates.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\bin\Debug\netcoreapp3.0\BasicDelegates.exe
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\bin\Debug\netcoreapp3.0\BasicDelegates.deps.json
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\bin\Debug\netcoreapp3.0\BasicDelegates.runtimeconfig.json
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\bin\Debug\netcoreapp3.0\BasicDelegates.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\bin\Debug\netcoreapp3.0\BasicDelegates.dll
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\bin\Debug\netcoreapp3.0\BasicDelegates.pdb
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\obj\Debug\netcoreapp3.0\BasicDelegates.dll
+C:\MyCode\C#MasterClass\BasiDelegates\BasicDelegates\BasicDelegates\obj\Debug\netcoreapp3.0\BasicDelegates.pdb
