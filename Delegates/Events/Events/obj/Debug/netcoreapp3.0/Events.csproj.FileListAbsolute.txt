@@ -1,0 +1,11 @@
+C:\MyCode\C#MasterClass\Delegates\Events\Events\bin\Debug\netcoreapp3.0\Events.exe
+C:\MyCode\C#MasterClass\Delegates\Events\Events\bin\Debug\netcoreapp3.0\Events.deps.json
+C:\MyCode\C#MasterClass\Delegates\Events\Events\bin\Debug\netcoreapp3.0\Events.runtimeconfig.json
+C:\MyCode\C#MasterClass\Delegates\Events\Events\bin\Debug\netcoreapp3.0\Events.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\Delegates\Events\Events\bin\Debug\netcoreapp3.0\Events.dll
+C:\MyCode\C#MasterClass\Delegates\Events\Events\bin\Debug\netcoreapp3.0\Events.pdb
+C:\MyCode\C#MasterClass\Delegates\Events\Events\obj\Debug\netcoreapp3.0\Events.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\Delegates\Events\Events\obj\Debug\netcoreapp3.0\Events.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\Delegates\Events\Events\obj\Debug\netcoreapp3.0\Events.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\Delegates\Events\Events\obj\Debug\netcoreapp3.0\Events.dll
+C:\MyCode\C#MasterClass\Delegates\Events\Events\obj\Debug\netcoreapp3.0\Events.pdb
