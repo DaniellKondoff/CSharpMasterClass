@@ -21,8 +21,8 @@ namespace ReflectionDelagatesDemo
             var deleg = (Func<HomeController, IDictionary<string, object>>)getMethod.CreateDelegate(typeof(Func<HomeController, IDictionary<string, object>>));
 
             var geleg2 = PropertyHelper<HomeController>.MakeFastPropertyGetter<IDictionary<string, object>>(property);
-            
 
+            var deleg3 = PropertyHelperAdvanced.MakeFastPropertyGetter<IDictionary<string, object>>(property);
         }
     }
 }
