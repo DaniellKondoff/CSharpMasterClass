@@ -1,0 +1,10 @@
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\bin\Debug\netcoreapp3.0\ReflectionDelagatesDemo.exe
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\bin\Debug\netcoreapp3.0\ReflectionDelagatesDemo.deps.json
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\bin\Debug\netcoreapp3.0\ReflectionDelagatesDemo.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\bin\Debug\netcoreapp3.0\ReflectionDelagatesDemo.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\bin\Debug\netcoreapp3.0\ReflectionDelagatesDemo.dll
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\bin\Debug\netcoreapp3.0\ReflectionDelagatesDemo.pdb
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\obj\Debug\netcoreapp3.0\ReflectionDelagatesDemo.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\obj\Debug\netcoreapp3.0\ReflectionDelagatesDemo.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\obj\Debug\netcoreapp3.0\ReflectionDelagatesDemo.dll
+D:\Program Files\GitHub\C#MasterClass\Reflection\ReflectionDelagatesDemo\ReflectionDelagatesDemo\obj\Debug\netcoreapp3.0\ReflectionDelagatesDemo.pdb
