@@ -1,0 +1,8 @@
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\bin\Debug\netcoreapp3.0\CoolLibrary.deps.json
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\bin\Debug\netcoreapp3.0\CoolLibrary.dll
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\bin\Debug\netcoreapp3.0\CoolLibrary.pdb
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\obj\Debug\netcoreapp3.0\CoolLibrary.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\obj\Debug\netcoreapp3.0\CoolLibrary.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\obj\Debug\netcoreapp3.0\CoolLibrary.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\obj\Debug\netcoreapp3.0\CoolLibrary.dll
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\CoolLibrary\obj\Debug\netcoreapp3.0\CoolLibrary.pdb

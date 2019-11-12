@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DynamicReflectionDemo/1.0.0": {
+        "dependencies": {
+          "CoolLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DynamicReflectionDemo.dll": {}
+        }
+      },
+      "CoolLibrary/1.0.0": {
+        "runtime": {
+          "CoolLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicReflectionDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoolLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

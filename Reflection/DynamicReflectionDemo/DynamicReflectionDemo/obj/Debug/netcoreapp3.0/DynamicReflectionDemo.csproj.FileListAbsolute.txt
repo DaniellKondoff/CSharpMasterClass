@@ -1,0 +1,14 @@
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\DynamicReflectionDemo.exe
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\DynamicReflectionDemo.deps.json
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\DynamicReflectionDemo.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\DynamicReflectionDemo.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\DynamicReflectionDemo.dll
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\DynamicReflectionDemo.pdb
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\obj\Debug\netcoreapp3.0\DynamicReflectionDemo.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\obj\Debug\netcoreapp3.0\DynamicReflectionDemo.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\obj\Debug\netcoreapp3.0\DynamicReflectionDemo.dll
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\obj\Debug\netcoreapp3.0\DynamicReflectionDemo.pdb
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\CoolLibrary.dll
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\bin\Debug\netcoreapp3.0\CoolLibrary.pdb
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\obj\Debug\netcoreapp3.0\DynamicReflectionDemo.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Reflection\DynamicReflectionDemo\DynamicReflectionDemo\obj\Debug\netcoreapp3.0\DynamicReflectionDemo.csproj.CopyComplete
