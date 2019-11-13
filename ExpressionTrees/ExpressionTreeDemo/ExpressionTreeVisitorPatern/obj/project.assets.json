@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ExpressionTreeDemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/ExpressionTreeDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExpressionTreeDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpressionTreeDemo/1.0.0": {
+      "type": "project",
+      "path": "../ExpressionTreeDemo/ExpressionTreeDemo.csproj",
+      "msbuildProject": "../ExpressionTreeDemo/ExpressionTreeDemo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ExpressionTreeDemo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dkondov\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj",
+      "projectName": "ExpressionTreeVisitorPatern",
+      "projectPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj",
+      "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
+      "outputPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj": {
+              "projectPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeDemo", "ExpressionTreeDemo\ExpressionTreeDemo.csproj", "{2CD91256-D215-40C7-8F2C-A9FC19444438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionTreeDemo", "ExpressionTreeDemo\ExpressionTreeDemo.csproj", "{2CD91256-D215-40C7-8F2C-A9FC19444438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebExpressionTreeTest", "WebExpressionTreeTest\WebExpressionTreeTest.csproj", "{23E1A043-1B29-430B-BB2F-B8C27991371C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeVisitorPatern", "ExpressionTreeVisitorPatern\ExpressionTreeVisitorPatern.csproj", "{EE282555-80B0-4FF5-9A36-003D8EC07669}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2CD91256-D215-40C7-8F2C-A9FC19444438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CD91256-D215-40C7-8F2C-A9FC19444438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CD91256-D215-40C7-8F2C-A9FC19444438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E1A043-1B29-430B-BB2F-B8C27991371C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E1A043-1B29-430B-BB2F-B8C27991371C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E1A043-1B29-430B-BB2F-B8C27991371C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E1A043-1B29-430B-BB2F-B8C27991371C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE282555-80B0-4FF5-9A36-003D8EC07669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE282555-80B0-4FF5-9A36-003D8EC07669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE282555-80B0-4FF5-9A36-003D8EC07669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE282555-80B0-4FF5-9A36-003D8EC07669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

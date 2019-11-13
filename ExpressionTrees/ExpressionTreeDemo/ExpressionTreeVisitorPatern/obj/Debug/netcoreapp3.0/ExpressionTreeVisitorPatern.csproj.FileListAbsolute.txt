@@ -1,0 +1,15 @@
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.exe
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.exe
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.deps.json
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.runtimeconfig.json
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.dll
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.pdb
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.dll
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.pdb
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.csproj.CopyComplete
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.dll
+C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.pdb

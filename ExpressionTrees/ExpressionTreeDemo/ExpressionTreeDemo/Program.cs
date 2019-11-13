@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq.Expressions;
+using System.Reflection;
 
 namespace ExpressionTreeDemo
 {
@@ -8,9 +9,23 @@ namespace ExpressionTreeDemo
         static void Main(string[] args)
         {
             var someInt = 50;
-            Expression<Func<Cat, string>> constant = cat => cat.SayMew(50);
+            Expression<Func<Cat, string>> catExpression = cat => cat.SayMew(someInt);
+            Expression<Func<int, int, int>> sum = (x, y) => x + y;
+            Expression<Func<Cat, string>> property = cat => cat.Owner.FullName;
+            Expression<Func<string, string, Cat>> catCreationExp = (CatName, OwnerName) => new Cat(CatName)
+            {
+                Owner = new Owner
+                {
+                    FullName = OwnerName
+                }
+            };
 
-            ParseExpression(constant, string.Empty);
+            Html.EditorFor<Cat>(c => c.Name);
+
+            //var func = catExpression.Compile();
+            //Console.WriteLine(func(new Cat()));
+
+            ParseExpression(catExpression, string.Empty);
         }
 
         private static void ParseExpression(Expression expression, string level)
@@ -21,17 +36,17 @@ namespace ExpressionTreeDemo
             {
                 Console.WriteLine($"{level}Extracting lambda....");
                 var lambdaExpression = (LambdaExpression)expression;
-                var body = lambdaExpression.Body;
-
-                Console.WriteLine($"{level}Extracting body....");
-                ParseExpression(body, level);
-
+               
                 Console.WriteLine($"{level}Extracting parameters....");
 
                 foreach (var prams in lambdaExpression.Parameters)
                 {
                     ParseExpression(prams, level);
                 }
+
+                var body = lambdaExpression.Body;
+                Console.WriteLine($"{level}Extracting body....");
+                ParseExpression(body, level);
             }
             else if (expression.NodeType == ExpressionType.Constant)
             {
@@ -77,8 +92,70 @@ namespace ExpressionTreeDemo
                 Console.WriteLine($"{level}Extracting parameter....");
                 var paramExpression = (ParameterExpression)expression;
 
-
                 Console.WriteLine($"{level}Parametar - {paramExpression.Name} - {paramExpression.Type.Name}");
+            }
+            else if(expression.NodeType == ExpressionType.MemberAccess)
+            {
+                Console.WriteLine($"{level}Extracting property Member....");
+                var propertyExpression = (MemberExpression)expression;
+                
+                if(propertyExpression.Member is PropertyInfo property)
+                {
+                    Console.WriteLine($"{level}Property - {property.Name} - {property.PropertyType.Name}");
+                }
+
+                if(propertyExpression.Member is FieldInfo field)
+                {
+                    Console.WriteLine($"{level}Field - {field.Name} - {field.FieldType.Name}");
+
+                    var classIntance = (ConstantExpression)propertyExpression.Expression;
+                    var variable = field.GetValue(classIntance.Value);
+                    Console.WriteLine($"{level}Variable: {variable}");
+                }
+
+                ParseExpression(propertyExpression.Expression, level);
+            }
+            else if (expression.NodeType == ExpressionType.Add)
+            {
+                Console.WriteLine($"{level}Extracting  Binary operation....");
+                var binaryExpression = (BinaryExpression)expression;
+
+                Console.WriteLine($"{level}Left Operand: {binaryExpression.Left} - Right Operand: {binaryExpression.Right}");
+
+            }
+            else if(expression.NodeType == ExpressionType.New)
+            {
+                Console.WriteLine($"{level}Extracting Object Creation....");
+                var newExpression = (NewExpression)expression;
+
+                Console.WriteLine($"{level}Constructor: {newExpression.Constructor.DeclaringType.Name}");
+
+                foreach (var argiment in newExpression.Arguments)
+                {
+                    ParseExpression(argiment, level);
+                }
+            }
+            else if(expression.NodeType == ExpressionType.MemberInit)
+            {
+                Console.WriteLine($"{level}Extracting Object Creation with Members....");
+                var memberInitExpr = (MemberInitExpression)expression;
+
+                ParseExpression(memberInitExpr.NewExpression, level);
+
+                foreach (var memberBinding in memberInitExpr.Bindings)
+                {
+                    Console.WriteLine($"{level}Extracting Member....");
+                    Console.WriteLine($"{level}Member: {memberBinding.Member.Name}");
+
+                    var memberAssignment = (MemberAssignment)memberBinding;
+
+                    ParseExpression(memberAssignment.Expression, level);
+                }
+            }
+            else
+            {
+                //Variable
+                //TODO: Extract not supported expression by compilation
             }
         }
     }
