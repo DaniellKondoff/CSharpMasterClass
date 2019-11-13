@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.exe
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.deps.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\obj\Debug\netcoreapp3.0\ExpressionTreeDemo.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\obj\Debug\netcoreapp3.0\ExpressionTreeDemo.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\obj\Debug\netcoreapp3.0\ExpressionTreeDemo.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\obj\Debug\netcoreapp3.0\ExpressionTreeDemo.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeDemo\obj\Debug\netcoreapp3.0\ExpressionTreeDemo.pdb
