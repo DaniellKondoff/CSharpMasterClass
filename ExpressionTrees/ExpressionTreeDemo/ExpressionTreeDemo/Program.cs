@@ -25,7 +25,7 @@ namespace ExpressionTreeDemo
             //var func = catExpression.Compile();
             //Console.WriteLine(func(new Cat()));
 
-            ParseExpression(catExpression, string.Empty);
+            ParseExpression(property, string.Empty);
         }
 
         private static void ParseExpression(Expression expression, string level)

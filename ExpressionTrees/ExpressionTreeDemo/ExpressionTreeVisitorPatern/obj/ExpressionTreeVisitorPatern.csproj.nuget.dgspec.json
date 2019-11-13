@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj": {}
+    "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj": {}
   },
   "projects": {
-    "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj": {
+    "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj",
         "projectName": "ExpressionTreeDemo",
-        "projectPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj",
-        "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
-        "outputPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\obj\\",
+        "projectPath": "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj",
+        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -59,20 +60,20 @@
         }
       }
     },
-    "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj": {
+    "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj",
         "projectName": "ExpressionTreeVisitorPatern",
-        "projectPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj",
-        "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
-        "outputPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\obj\\",
+        "projectPath": "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\ExpressionTreeVisitorPatern.csproj",
+        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeVisitorPatern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,13 +81,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj": {
-                "projectPath": "C:\\MyCode\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj"
+              "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\C#MasterClass\\ExpressionTrees\\ExpressionTreeDemo\\ExpressionTreeDemo\\ExpressionTreeDemo.csproj"
               }
             }
           }

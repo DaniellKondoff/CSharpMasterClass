@@ -33,3 +33,38 @@ C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest
 C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.dll
 C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.pdb
 C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.csproj.CopyComplete
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.exe
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.deps.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.Views.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\bin\Debug\netcoreapp3.0\WebExpressionTreeTest.Views.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\staticwebassets\WebExpressionTreeTest.StaticWebAssets.Manifest.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\staticwebassets\WebExpressionTreeTest.StaticWebAssets.xml
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.RazorAssemblyInfo.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.RazorAssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.TagHelpers.input.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.TagHelpers.output.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.RazorCoreGenerate.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.RazorTargetAssemblyInfo.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.RazorTargetAssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.Views.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\WebExpressionTreeTest\obj\Debug\netcoreapp3.0\WebExpressionTreeTest.csproj.CopyComplete

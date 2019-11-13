@@ -13,3 +13,18 @@ C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitor
 C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.csproj.CopyComplete
 C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.dll
 C:\MyCode\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.exe
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.exe
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.deps.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\bin\Debug\netcoreapp3.0\ExpressionTreeDemo.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.csproj.CopyComplete
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\ExpressionTreeVisitorPatern\obj\Debug\netcoreapp3.0\ExpressionTreeVisitorPatern.pdb

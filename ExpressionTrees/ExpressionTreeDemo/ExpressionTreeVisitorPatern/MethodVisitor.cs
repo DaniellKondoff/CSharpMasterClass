@@ -21,14 +21,14 @@ namespace ExpressionTreeVisitorPatern
             }
             else
             {
-                CreateFromExpression(node.Object).Visit(prefix);
+                CreateFromExpression(node.Object).Visit(prefix + "-");
             }
 
             Console.WriteLine($"{prefix}Extracting Method Arguments....");
             foreach (var argumnet in node.Arguments)
             {
                 Console.WriteLine($"{prefix}Extracting Argument");
-                CreateFromExpression(argumnet).Visit(prefix);
+                CreateFromExpression(argumnet).Visit(prefix + "-");
             }
         }
     }

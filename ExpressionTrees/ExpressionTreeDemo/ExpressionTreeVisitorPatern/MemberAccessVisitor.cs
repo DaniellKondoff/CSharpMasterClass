@@ -30,7 +30,7 @@ namespace ExpressionTreeVisitorPatern
                 Console.WriteLine($"{prefix}Variable: {variable}");
             }
 
-            CreateFromExpression(node.Expression).Visit(prefix);
+            CreateFromExpression(node.Expression).Visit(prefix +"-");
         }
     }
 }

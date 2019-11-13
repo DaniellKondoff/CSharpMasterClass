@@ -32,6 +32,12 @@ namespace ExpressionTreeVisitorPatern
                     return new MethodVisitor((MethodCallExpression)node);
                 case ExpressionType.MemberAccess:
                     return new MemberAccessVisitor((MemberExpression)node);
+                case ExpressionType.New:
+                    return new NewObjectVisitor((NewExpression)node);
+                case ExpressionType.MemberInit:
+                    return new MemberInitVisitor((MemberInitExpression)node);
+                case ExpressionType.Convert:
+                    return new ConvertVisitor((UnaryExpression)node);
                 default:
                     Console.Error.WriteLine($"Node not processed yet: {node.NodeType}");
                     return default;
