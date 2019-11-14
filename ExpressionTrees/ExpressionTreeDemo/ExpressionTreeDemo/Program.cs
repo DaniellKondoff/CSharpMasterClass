@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 
@@ -25,7 +27,81 @@ namespace ExpressionTreeDemo
             //var func = catExpression.Compile();
             //Console.WriteLine(func(new Cat()));
 
-            ParseExpression(property, string.Empty);
+            //ParseExpression(property, string.Empty);
+
+            var typeCat = typeof(Cat);
+            //Generating Expresion Trees
+            // () => 42
+
+            //42
+            var constant = Expression.Constant(42);
+            //()=>
+            var lambda = Expression.Lambda<Func<int>>(constant);
+            var func = lambda.Compile();
+
+            //() => new Cat();
+            var catExpr = Expression.New(typeCat);
+            var catLambda = Expression.Lambda<Func<Cat>>(catExpr);
+            var catConstruction = catLambda.Compile();
+            var catt = catConstruction();
+
+
+            //cat => cat.sayMew(42);
+            //42
+            var constant42 = Expression.Constant(42);
+            //cat
+            var catExprParam = Expression.Parameter(typeCat, "cat");
+            //Method cat.sayMew(42);
+            var methodInfo = typeCat.GetMethod(nameof(Cat.SayMew));
+            var call = Expression.Call(catExprParam, methodInfo, constant);
+
+            var lambdaCat = Expression.Lambda<Func<Cat, string>>(call, catExprParam);
+            //var funcc = lambdaCat.Compile();
+            //Console.WriteLine(funcc(new Cat()));
+
+            //(cat, number) => cat.sayMew(number);
+            var catExprParam1 = Expression.Parameter(typeCat, "cat");
+            var numberParametar2 = Expression.Parameter(typeof(int), "number");
+            //Method cat.sayMew(number);
+            var methodInfo2 = typeCat.GetMethod(nameof(Cat.SayMew));
+            var call2 = Expression.Call(catExprParam1, methodInfo, numberParametar2);
+
+            var lambdaCat2 = Expression.Lambda<Func<Cat, int, string>>(call2, catExprParam1, numberParametar2);
+            //var func2 = lambdaCat2.Compile();
+            //Console.WriteLine(func2(new Cat(), 100));
+
+            //MVC
+            //RedirectToAction("Index", new {id = 5, query = "Test"})
+            //id = 5, query = "Test"
+            var obj = new { id = 5, query = "Test" };
+            var dict = new Dictionary<string, object>();
+
+            obj.GetType()
+                .GetProperties()
+                .Select(pr => new
+                {
+                    Name = pr.Name,
+                    Value = pr.GetValue(obj)
+                })
+                .ToList()
+                .ForEach(pr =>
+                {
+                    dict[pr.Name] = pr.Value;
+                });
+
+            PropertyHelper.Get(obj)
+                 .Select(pr => new
+                 {
+                     Name = pr.Name,
+                     Value = pr.Getter(obj)
+                 })
+                .ToList()
+                .ForEach(pr =>
+                {
+                    dict[pr.Name] = pr.Value;
+                });
+
+            dict.Count();
         }
 
         private static void ParseExpression(Expression expression, string level)
