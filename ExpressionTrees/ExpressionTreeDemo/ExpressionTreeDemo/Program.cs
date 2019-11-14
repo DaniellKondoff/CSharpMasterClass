@@ -102,6 +102,10 @@ namespace ExpressionTreeDemo
                 });
 
             dict.Count();
+
+            var cat = new Cat("SomeCatname");
+            dynamic someClass = new ExposedObject(cat);
+            Console.WriteLine(someClass.SomeProperty);
         }
 
         private static void ParseExpression(Expression expression, string level)
