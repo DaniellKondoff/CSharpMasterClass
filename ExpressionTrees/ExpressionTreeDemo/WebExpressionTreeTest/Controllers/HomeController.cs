@@ -19,7 +19,7 @@ namespace WebExpressionTreeTest.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int id, string query)
         {
             return View();
         }
