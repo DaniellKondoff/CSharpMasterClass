@@ -67,13 +67,18 @@ namespace DeadLock
 
         public static void Transfer(Account first, Account second)
         {
-            lock (first)
+            bool isEnterdFirst = Monitor.TryEnter(first, 3000);
+            bool isEnteredSecond = Monitor.TryEnter(second, 3000);
+
+            first.amount += 50;
+            second.amount -= 50;
+
+            if (isEnteredSecond) Monitor.Exit(second);
+            if (isEnterdFirst) Monitor.Exit(first);
+           
+            if (!isEnterdFirst || isEnteredSecond)
             {
-                lock (second)
-                {
-                    first.amount += 50;
-                    second.amount -= 50;
-                }
+                Console.WriteLine("Deadlocked");
             }
         }
     }

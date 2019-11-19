@@ -13,30 +13,36 @@ namespace MultithreadingDemo
             //new Thread(PrintNumbers).Start();
 
             int times = 8;
+            var primes = new Primes();
+
             Console.WriteLine("Sequance");
             Stopwatch sw = new Stopwatch();
             sw.Start();
             for (int i = 0; i < times; i++)
             {
-                Primes.CalculatePrimes();
+                primes.CalculatePrimes(new Tuple<int, int>(i * 1000, (i * 1000) + 1000));
             }
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds);
+            Console.WriteLine(primes.primes.Count);
+
             sw.Reset();
             Console.WriteLine("using threds");
             sw.Start();
-
+            primes = new Primes();
             List<Thread> threads = new List<Thread>();
             for (int i = 0; i < times; i++)
             {
-                threads.Add(new Thread(Primes.CalculatePrimes));
-                threads[i].Start();
-               //new Thread(Primes.CalculatePrimes).Start();
+                //int j = i;
+                var t = new Thread(primes.CalculatePrimes);
+                t.Start(new Tuple<int, int>(i * 1000, (i * 1000) + 1000));
+                threads.Add(t);
             }
             threads.ForEach((t) => t.Join());
             
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds);
+            Console.WriteLine(primes.primes.Count);
         }
 
         public static  void PrintNumbers()

@@ -9,3 +9,14 @@ C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp
 C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
 C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.dll
 C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.pdb

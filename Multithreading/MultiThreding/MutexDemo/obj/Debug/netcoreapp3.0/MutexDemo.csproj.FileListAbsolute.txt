@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\bin\Debug\netcoreapp3.0\MutexDemo.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\bin\Debug\netcoreapp3.0\MutexDemo.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\bin\Debug\netcoreapp3.0\MutexDemo.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\bin\Debug\netcoreapp3.0\MutexDemo.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\bin\Debug\netcoreapp3.0\MutexDemo.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\bin\Debug\netcoreapp3.0\MutexDemo.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\obj\Debug\netcoreapp3.0\MutexDemo.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\obj\Debug\netcoreapp3.0\MutexDemo.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\obj\Debug\netcoreapp3.0\MutexDemo.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\obj\Debug\netcoreapp3.0\MutexDemo.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\MutexDemo\obj\Debug\netcoreapp3.0\MutexDemo.pdb

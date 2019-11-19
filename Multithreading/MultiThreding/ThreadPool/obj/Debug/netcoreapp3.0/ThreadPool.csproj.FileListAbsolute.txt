@@ -1,0 +1,10 @@
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.pdb

@@ -29,27 +29,29 @@ namespace ImageDownload
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            List<Image> imges = new List<Image>();
-
             for (int i = 0; i < 3; i++)
             {
                 var image = new Image();
-                image.Source = LoadImage("https://http.cat/40" + i);
-                imges.Add(image);
-                Container.Children.Add(image);
-
+                int count = i;
+                var t = new Thread(() =>
+                {
+                    LoadImage("https://http.cat/40" + count, image);
+                });
+                t.Start();
             }
-
-            
-            Thread.Sleep(5000);
         }
 
-        public BitmapImage LoadImage(string url)
+        public void LoadImage(string url, Image image)
         {
             WebClient wc = new WebClient();
             byte[] byteImg = wc.DownloadData(url);
 
-            return ToImage(byteImg);
+            Dispatcher.Invoke(() =>
+            {
+                var bitMapImage = ToImage(byteImg);
+                image.Source = bitMapImage;
+                Container.Children.Add(image);
+            });
         }
 
         public BitmapImage ToImage(byte[] array)

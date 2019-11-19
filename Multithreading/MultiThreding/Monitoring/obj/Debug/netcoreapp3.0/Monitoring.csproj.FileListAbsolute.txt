@@ -1,0 +1,10 @@
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\bin\Debug\netcoreapp3.0\Monitoring.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\bin\Debug\netcoreapp3.0\Monitoring.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\bin\Debug\netcoreapp3.0\Monitoring.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\bin\Debug\netcoreapp3.0\Monitoring.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\bin\Debug\netcoreapp3.0\Monitoring.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\bin\Debug\netcoreapp3.0\Monitoring.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\obj\Debug\netcoreapp3.0\Monitoring.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\obj\Debug\netcoreapp3.0\Monitoring.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\obj\Debug\netcoreapp3.0\Monitoring.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreding\Monitoring\obj\Debug\netcoreapp3.0\Monitoring.pdb

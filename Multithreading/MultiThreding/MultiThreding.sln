@@ -5,13 +5,21 @@ VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDownload", "ImageDownload\ImageDownload.csproj", "{65AF4D47-C8E1-4CCB-B62C-91F0D7CB10B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingDemo", "MultithreadingDemo\MultithreadingDemo.csproj", "{3A8ED270-C7F5-48C0-B09B-B43E221A79B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultithreadingDemo", "MultithreadingDemo\MultithreadingDemo.csproj", "{3A8ED270-C7F5-48C0-B09B-B43E221A79B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{FF370DF9-98B6-4394-BBA6-ECAF88808F0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{FF370DF9-98B6-4394-BBA6-ECAF88808F0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceConditionDemo", "RaceConditionDemo\RaceConditionDemo.csproj", "{836DC420-AA94-4909-9EC6-CBC8BA6FEDEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RaceConditionDemo", "RaceConditionDemo\RaceConditionDemo.csproj", "{836DC420-AA94-4909-9EC6-CBC8BA6FEDEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLock", "DeadLock\DeadLock.csproj", "{17EF4CEF-D2EF-483C-A1DF-00BDABBA1632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadLock", "DeadLock\DeadLock.csproj", "{17EF4CEF-D2EF-483C-A1DF-00BDABBA1632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPool", "ThreadPool\ThreadPool.csproj", "{07D71AE2-D0C0-4C92-B4E9-B0970DF18A4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitoring", "Monitoring\Monitoring.csproj", "{4EE7F8C4-BF77-4711-A01B-DF580940D89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexDemo", "MutexDemo\MutexDemo.csproj", "{5556A101-BE2D-41B8-8B9E-EAD4180AD133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreDemo", "SemaphoreDemo\SemaphoreDemo.csproj", "{EBC73B90-1C77-41A8-970C-503DE2597CBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{17EF4CEF-D2EF-483C-A1DF-00BDABBA1632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17EF4CEF-D2EF-483C-A1DF-00BDABBA1632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17EF4CEF-D2EF-483C-A1DF-00BDABBA1632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D71AE2-D0C0-4C92-B4E9-B0970DF18A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D71AE2-D0C0-4C92-B4E9-B0970DF18A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D71AE2-D0C0-4C92-B4E9-B0970DF18A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D71AE2-D0C0-4C92-B4E9-B0970DF18A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE7F8C4-BF77-4711-A01B-DF580940D89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE7F8C4-BF77-4711-A01B-DF580940D89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE7F8C4-BF77-4711-A01B-DF580940D89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE7F8C4-BF77-4711-A01B-DF580940D89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5556A101-BE2D-41B8-8B9E-EAD4180AD133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5556A101-BE2D-41B8-8B9E-EAD4180AD133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5556A101-BE2D-41B8-8B9E-EAD4180AD133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5556A101-BE2D-41B8-8B9E-EAD4180AD133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC73B90-1C77-41A8-970C-503DE2597CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC73B90-1C77-41A8-970C-503DE2597CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC73B90-1C77-41A8-970C-503DE2597CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC73B90-1C77-41A8-970C-503DE2597CBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
