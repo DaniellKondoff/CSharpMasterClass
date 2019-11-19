@@ -1,0 +1,11 @@
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\bin\Debug\netcoreapp3.0\RaceConditionDemo.exe
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\bin\Debug\netcoreapp3.0\RaceConditionDemo.deps.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\bin\Debug\netcoreapp3.0\RaceConditionDemo.runtimeconfig.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\bin\Debug\netcoreapp3.0\RaceConditionDemo.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\bin\Debug\netcoreapp3.0\RaceConditionDemo.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\bin\Debug\netcoreapp3.0\RaceConditionDemo.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\obj\Debug\netcoreapp3.0\RaceConditionDemo.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\obj\Debug\netcoreapp3.0\RaceConditionDemo.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\obj\Debug\netcoreapp3.0\RaceConditionDemo.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\obj\Debug\netcoreapp3.0\RaceConditionDemo.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\RaceConditionDemo\obj\Debug\netcoreapp3.0\RaceConditionDemo.pdb

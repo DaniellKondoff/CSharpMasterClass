@@ -1,0 +1,11 @@
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\bin\Debug\netcoreapp3.0\MultithreadingDemo.exe
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\bin\Debug\netcoreapp3.0\MultithreadingDemo.deps.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\bin\Debug\netcoreapp3.0\MultithreadingDemo.runtimeconfig.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\bin\Debug\netcoreapp3.0\MultithreadingDemo.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\bin\Debug\netcoreapp3.0\MultithreadingDemo.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\bin\Debug\netcoreapp3.0\MultithreadingDemo.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\obj\Debug\netcoreapp3.0\MultithreadingDemo.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\obj\Debug\netcoreapp3.0\MultithreadingDemo.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\obj\Debug\netcoreapp3.0\MultithreadingDemo.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\obj\Debug\netcoreapp3.0\MultithreadingDemo.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\MultithreadingDemo\obj\Debug\netcoreapp3.0\MultithreadingDemo.pdb

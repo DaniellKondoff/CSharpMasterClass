@@ -1,0 +1,14 @@
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\bin\Debug\ImageDownload.exe.config
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\bin\Debug\ImageDownload.exe
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\bin\Debug\ImageDownload.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\MainWindow.g.cs
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\App.g.cs
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload_MarkupCompile.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload_MarkupCompile.lref
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\MainWindow.baml
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload.g.resources
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload.Properties.Resources.resources
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload.csproj.GenerateResource.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload.exe
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\ImageDownload\obj\Debug\ImageDownload.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.exe
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.deps.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.runtimeconfig.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\bin\Debug\netcoreapp3.0\Common.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreding\Common\obj\Debug\netcoreapp3.0\Common.pdb
