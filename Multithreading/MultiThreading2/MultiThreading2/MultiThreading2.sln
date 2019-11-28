@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigureAwait", "Configure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigureAwaitWpf", "ConfigureAwaitWpf\ConfigureAwaitWpf.csproj", "{A69C73C2-CDB8-4919-B0C9-C20C4A3B96C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncVoid", "AsyncVoid\AsyncVoid.csproj", "{98780481-09B9-4505-9EAE-587DD94B3270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncVoid", "AsyncVoid\AsyncVoid.csproj", "{98780481-09B9-4505-9EAE-587DD94B3270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLoops", "ParallelLoops\ParallelLoops.csproj", "{4871B2D2-8A2F-4B2C-86BF-1D3189F411CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelLoops", "ParallelLoops\ParallelLoops.csproj", "{4871B2D2-8A2F-4B2C-86BF-1D3189F411CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSchedular", "TaskSchedular\TaskSchedular.csproj", "{9FB517C3-1182-493E-82CF-8D3B9E212FEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskSchedular", "TaskSchedular\TaskSchedular.csproj", "{9FB517C3-1182-493E-82CF-8D3B9E212FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhaitAll", "WhaitAll\WhaitAll.csproj", "{F1F02711-AE10-4AB5-AE42-FE2B9EAD5053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{9FB517C3-1182-493E-82CF-8D3B9E212FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB517C3-1182-493E-82CF-8D3B9E212FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FB517C3-1182-493E-82CF-8D3B9E212FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F02711-AE10-4AB5-AE42-FE2B9EAD5053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F02711-AE10-4AB5-AE42-FE2B9EAD5053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F02711-AE10-4AB5-AE42-FE2B9EAD5053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F02711-AE10-4AB5-AE42-FE2B9EAD5053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

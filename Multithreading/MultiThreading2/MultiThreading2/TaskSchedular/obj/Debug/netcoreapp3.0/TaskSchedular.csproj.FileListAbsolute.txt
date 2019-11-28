@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\bin\Debug\netcoreapp3.0\TaskSchedular.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\bin\Debug\netcoreapp3.0\TaskSchedular.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\bin\Debug\netcoreapp3.0\TaskSchedular.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\bin\Debug\netcoreapp3.0\TaskSchedular.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\bin\Debug\netcoreapp3.0\TaskSchedular.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\bin\Debug\netcoreapp3.0\TaskSchedular.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\obj\Debug\netcoreapp3.0\TaskSchedular.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\obj\Debug\netcoreapp3.0\TaskSchedular.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\obj\Debug\netcoreapp3.0\TaskSchedular.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\obj\Debug\netcoreapp3.0\TaskSchedular.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskSchedular\obj\Debug\netcoreapp3.0\TaskSchedular.pdb

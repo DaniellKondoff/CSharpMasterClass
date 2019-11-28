@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dkondov\\.nuget\\packages\\": {},
+    "C:\\Users\\Kondoff\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\TasksPitfalls\\TasksPitfalls.csproj",
+      "projectUniqueName": "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\TasksPitfalls\\TasksPitfalls.csproj",
       "projectName": "TasksPitfalls",
-      "projectPath": "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\TasksPitfalls\\TasksPitfalls.csproj",
-      "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
-      "outputPath": "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\TasksPitfalls\\obj\\",
+      "projectPath": "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\TasksPitfalls\\TasksPitfalls.csproj",
+      "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
+      "outputPath": "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\TasksPitfalls\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {

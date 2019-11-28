@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\bin\Debug\netcoreapp3.0\WhaitAll.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\bin\Debug\netcoreapp3.0\WhaitAll.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\bin\Debug\netcoreapp3.0\WhaitAll.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\bin\Debug\netcoreapp3.0\WhaitAll.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\bin\Debug\netcoreapp3.0\WhaitAll.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\bin\Debug\netcoreapp3.0\WhaitAll.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\obj\Debug\netcoreapp3.0\WhaitAll.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\obj\Debug\netcoreapp3.0\WhaitAll.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\obj\Debug\netcoreapp3.0\WhaitAll.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\obj\Debug\netcoreapp3.0\WhaitAll.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\WhaitAll\obj\Debug\netcoreapp3.0\WhaitAll.pdb
