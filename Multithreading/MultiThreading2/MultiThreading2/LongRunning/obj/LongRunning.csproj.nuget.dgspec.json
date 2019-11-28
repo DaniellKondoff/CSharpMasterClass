@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj": {}
+    "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj": {
+    "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj",
+        "projectUniqueName": "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj",
         "projectName": "LongRunning",
-        "projectPath": "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj",
-        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\GitHub\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\obj\\",
+        "projectPath": "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\LongRunning.csproj",
+        "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
+        "outputPath": "C:\\MyCode\\C#MasterClass\\Multithreading\\MultiThreading2\\MultiThreading2\\LongRunning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {

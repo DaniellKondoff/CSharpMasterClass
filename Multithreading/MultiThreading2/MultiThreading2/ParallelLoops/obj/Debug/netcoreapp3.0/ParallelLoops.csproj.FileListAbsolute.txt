@@ -1,0 +1,11 @@
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\bin\Debug\netcoreapp3.0\ParallelLoops.exe
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\bin\Debug\netcoreapp3.0\ParallelLoops.deps.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\bin\Debug\netcoreapp3.0\ParallelLoops.runtimeconfig.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\bin\Debug\netcoreapp3.0\ParallelLoops.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\bin\Debug\netcoreapp3.0\ParallelLoops.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\bin\Debug\netcoreapp3.0\ParallelLoops.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\obj\Debug\netcoreapp3.0\ParallelLoops.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\obj\Debug\netcoreapp3.0\ParallelLoops.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\obj\Debug\netcoreapp3.0\ParallelLoops.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\obj\Debug\netcoreapp3.0\ParallelLoops.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\ParallelLoops\obj\Debug\netcoreapp3.0\ParallelLoops.pdb

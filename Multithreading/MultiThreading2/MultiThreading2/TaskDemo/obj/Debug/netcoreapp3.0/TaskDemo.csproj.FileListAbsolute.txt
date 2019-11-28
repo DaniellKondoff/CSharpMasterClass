@@ -9,3 +9,14 @@ D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThread
 D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.AssemblyInfo.cs
 D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.dll
 D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\bin\Debug\netcoreapp3.0\TaskDemo.exe
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\bin\Debug\netcoreapp3.0\TaskDemo.deps.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\bin\Debug\netcoreapp3.0\TaskDemo.runtimeconfig.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\bin\Debug\netcoreapp3.0\TaskDemo.runtimeconfig.dev.json
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\bin\Debug\netcoreapp3.0\TaskDemo.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\bin\Debug\netcoreapp3.0\TaskDemo.pdb
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.csprojAssemblyReference.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.AssemblyInfoInputs.cache
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.AssemblyInfo.cs
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.dll
+C:\MyCode\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\TaskDemo\obj\Debug\netcoreapp3.0\TaskDemo.pdb
