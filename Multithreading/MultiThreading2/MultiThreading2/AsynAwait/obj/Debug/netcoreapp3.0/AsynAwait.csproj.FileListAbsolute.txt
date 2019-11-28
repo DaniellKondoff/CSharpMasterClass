@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\bin\Debug\netcoreapp3.0\AsynAwait.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\bin\Debug\netcoreapp3.0\AsynAwait.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\bin\Debug\netcoreapp3.0\AsynAwait.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\bin\Debug\netcoreapp3.0\AsynAwait.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\bin\Debug\netcoreapp3.0\AsynAwait.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\bin\Debug\netcoreapp3.0\AsynAwait.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\obj\Debug\netcoreapp3.0\AsynAwait.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\obj\Debug\netcoreapp3.0\AsynAwait.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\obj\Debug\netcoreapp3.0\AsynAwait.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\obj\Debug\netcoreapp3.0\AsynAwait.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\AsynAwait\obj\Debug\netcoreapp3.0\AsynAwait.pdb

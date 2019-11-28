@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\bin\Debug\netcoreapp3.0\LongRunning.exe
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\bin\Debug\netcoreapp3.0\LongRunning.deps.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\bin\Debug\netcoreapp3.0\LongRunning.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\bin\Debug\netcoreapp3.0\LongRunning.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\bin\Debug\netcoreapp3.0\LongRunning.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\bin\Debug\netcoreapp3.0\LongRunning.pdb
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\obj\Debug\netcoreapp3.0\LongRunning.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\obj\Debug\netcoreapp3.0\LongRunning.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\obj\Debug\netcoreapp3.0\LongRunning.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\obj\Debug\netcoreapp3.0\LongRunning.dll
+D:\Program Files\GitHub\C#MasterClass\Multithreading\MultiThreading2\MultiThreading2\LongRunning\obj\Debug\netcoreapp3.0\LongRunning.pdb
