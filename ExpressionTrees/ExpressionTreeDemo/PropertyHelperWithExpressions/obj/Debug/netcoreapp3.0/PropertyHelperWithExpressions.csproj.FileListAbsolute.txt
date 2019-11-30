@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\bin\Debug\netcoreapp3.0\PropertyHelperWithExpressions.exe
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\bin\Debug\netcoreapp3.0\PropertyHelperWithExpressions.deps.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\bin\Debug\netcoreapp3.0\PropertyHelperWithExpressions.runtimeconfig.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\bin\Debug\netcoreapp3.0\PropertyHelperWithExpressions.runtimeconfig.dev.json
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\bin\Debug\netcoreapp3.0\PropertyHelperWithExpressions.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\bin\Debug\netcoreapp3.0\PropertyHelperWithExpressions.pdb
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\obj\Debug\netcoreapp3.0\PropertyHelperWithExpressions.csprojAssemblyReference.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\obj\Debug\netcoreapp3.0\PropertyHelperWithExpressions.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\obj\Debug\netcoreapp3.0\PropertyHelperWithExpressions.AssemblyInfo.cs
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\obj\Debug\netcoreapp3.0\PropertyHelperWithExpressions.dll
+D:\Program Files\GitHub\C#MasterClass\ExpressionTrees\ExpressionTreeDemo\PropertyHelperWithExpressions\obj\Debug\netcoreapp3.0\PropertyHelperWithExpressions.pdb
